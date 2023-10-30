@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sustainabililty Blog</title>
+    <link>https://sustainability.garrardkitchen.com/post/</link>
+    <description>Recent content in Posts on Sustainabililty Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sustainability.garrardkitchen.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my SX Blog</title>
+      <link>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</guid>
+      <description>“Green by Design. ”
+Green by Design Welcome to my new blog on Sustainability Transformtion. This is a holding page.</description>
+    </item>
+    
+  </channel>
+</rss>
