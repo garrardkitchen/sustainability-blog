@@ -6,6 +6,7 @@ date:       2019-01-09
 author:     "GPK"
 # image:      "https://img.garrardkitchen.com/*.jpg"
 draft: true
+
 ---
 
 # Clean White Theme for Hugo

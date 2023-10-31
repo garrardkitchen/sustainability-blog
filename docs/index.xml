@@ -6,7 +6,16 @@
     <description>Recent content on Sustainabililty Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sustainability.garrardkitchen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 20:17:21 +0000</lastBuildDate><atom:link href="https://sustainability.garrardkitchen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National DevOps Conference 2023</title>
+      <link>https://sustainability.garrardkitchen.com/2023/10/31/ndc/</link>
+      <pubDate>Tue, 31 Oct 2023 20:17:21 +0000</pubDate>
+      
+      <guid>https://sustainability.garrardkitchen.com/2023/10/31/ndc/</guid>
+      <description>National DevOps Conference 2023 Last week I spoke at NDC in London on Sustainability Transformation and &amp;ldquo;Green by Design&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Welcome to my SX Blog</title>
       <link>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</link>
@@ -14,7 +23,7 @@
       
       <guid>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</guid>
       <description>“Green by Design. ”
-Green by Design Welcome to my new blog on Sustainability Transformation. This is a holding page.</description>
+Green by Design Welcome to my new blog on Sustainability Transformation.</description>
     </item>
     
     <item>
@@ -23,10 +32,8 @@ Green by Design Welcome to my new blog on Sustainability Transformation. This is
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sustainability.garrardkitchen.com/about/</guid>
-      <description>About Me Garrard Kitchen is a cloud solutions architect&amp;hellip;&amp;hellip;.
-Feel free to connect Garrard at Github and Linkedin, leave your thoughts in his blog or share your ideas by writing him an email.
-Publications Title Type Publisher Link &amp;hellip;
-Presentations (Selected) Year City Conference Title Slides Video Open Source Projects Project Role Website GitHub </description>
+      <description>About Me Garrard Kitchen is a cloud solutions architect (plus DevOps expert, security engineer and developer), specialising in designing, developing, deploying, monitoring and ever greening secure cloud-first applications targeting the Azure Cloud Platform. Garrard has a passion with Sustainability and now operates by the &amp;ldquo;Green by Design&amp;rdquo; ethos.
+Feel free to connect Garrard at Github and Linkedin, leave your thoughts in his blog or share your ideas by writing him an email.</description>
     </item>
     
     <item>

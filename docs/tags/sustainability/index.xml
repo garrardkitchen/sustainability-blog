@@ -6,7 +6,16 @@
     <description>Recent content in sustainability on Sustainabililty Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sustainability.garrardkitchen.com/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 20:17:21 +0000</lastBuildDate><atom:link href="https://sustainability.garrardkitchen.com/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National DevOps Conference 2023</title>
+      <link>https://sustainability.garrardkitchen.com/2023/10/31/ndc/</link>
+      <pubDate>Tue, 31 Oct 2023 20:17:21 +0000</pubDate>
+      
+      <guid>https://sustainability.garrardkitchen.com/2023/10/31/ndc/</guid>
+      <description>National DevOps Conference 2023 Last week I spoke at NDC in London on Sustainability Transformation and &amp;ldquo;Green by Design&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Welcome to my SX Blog</title>
       <link>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</link>
@@ -14,7 +23,7 @@
       
       <guid>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</guid>
       <description>“Green by Design. ”
-Green by Design Welcome to my new blog on Sustainability Transformation. This is a holding page.</description>
+Green by Design Welcome to my new blog on Sustainability Transformation.</description>
     </item>
     
   </channel>
