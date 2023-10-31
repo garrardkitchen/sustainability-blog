@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sustainability.garrardkitchen.com/categories/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sustainability.garrardkitchen.com/categories/green-coding/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sustainability.garrardkitchen.com/post/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sustainability.garrardkitchen.com/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sustainability.garrardkitchen.com/tags/sustainability/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sustainability.garrardkitchen.com/tags/sx/</loc>
+    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sustainability.garrardkitchen.com/tags/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sustainability.garrardkitchen.com/2023/10/30/hello-all/</loc>
@@ -17,12 +32,8 @@
   </url><url>
     <loc>https://sustainability.garrardkitchen.com/search/placeholder/</loc>
   </url><url>
-    <loc>https://sustainability.garrardkitchen.com/categories/</loc>
-  </url><url>
     <loc>https://sustainability.garrardkitchen.com/archive/</loc>
   </url><url>
     <loc>https://sustainability.garrardkitchen.com/search/</loc>
-  </url><url>
-    <loc>https://sustainability.garrardkitchen.com/tags/</loc>
   </url>
 </urlset>
